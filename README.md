@@ -11,8 +11,8 @@ Note: The last 2 columns of the original dataset is deleted since irrelevant.
 **Packages:** pandas, numpy, math, matplotlib, seaborn, sklearn
 
 ## Progress and Plans
-- [X] Exploratory Data Analysis
-- [ ] Logistic Regression (Original Dataset)
+- [x] Exploratory Data Analysis
+- [x] Logistic Regression (Original Dataset)
 - [ ] Random Forest (Original Dataset)
 - [ ] Resampling
 - [ ] Logistic Regression (Resampled Dataset)
