@@ -7,7 +7,6 @@ Note: The last 2 columns of the original dataset is deleted since irrelevant.
 
 ## Tools used
 **Python** 3.8.5  
-**Jupyter Notebook** Version 6.1.4  
 **Packages:** pandas, numpy, math, matplotlib, seaborn, sklearn
 
 ## Progress and Plans
